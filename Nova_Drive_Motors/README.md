@@ -1,10 +1,11 @@
 # Etapa 1: Análise Exploratória
 Fases da Etapa:
-    *	Conectando ao banco de dados Nova Drive Motors no Postgres.
-    *	Conhecer as tabelas.
-    *	Explorar os dados das tabelas.
-    *	Ver relações entre as tabelas.
-    *	Para administrar o banco foi usado o Postgres.
+
+* Conectando ao banco de dados Nova Drive Motors no Postgres.
+* Conhecer as tabelas.
+* Explorar os dados das tabelas.
+* Ver relações entre as tabelas.
+* Para administrar o banco foi usado o Postgres.
 
 
 # Etapa 2:  Configurar o Airflow 
