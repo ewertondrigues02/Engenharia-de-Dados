@@ -10,33 +10,37 @@ Fases da Etapa:
 
 # Etapa 2:  Configurar o Airflow 
 Fase da Etapa:
-    •	Foi criado uma máquina virtual EC2 na AWS.
-    •	Instalado o Ubuntu Server 22.04 LTS SSD. Tipo de máquina t2.large.
-    •	No Ubunto Server foram instalados o Docker e o Airflow.
+* Foi criado uma máquina virtual EC2 na AWS.
+* Instalado o Ubuntu Server 22.04 LTS SSD. Tipo de máquina t2.large.
+* No Ubunto Server foram instalados o Docker e o Airflow.
 
 # Etapa 3: Configurar Snowflake
-Fase da Etapa: 
-    •	Conectar conta do Snowflake.
-    •	Foi criado os objetos como: banco de dados, schemas, warehouse.
-    •	Foi criado também tabelas trazidas de forma de dinâmica do Airflow.
+Fase da Etapa:
+
+* Conectar conta do Snowflake.
+* Foi criado os objetos como: banco de dados, schemas, warehouse.
+* Foi criado também tabelas trazidas de forma de dinâmica do Airflow.
 
 # Etapa 4: Criando Stage com Airflow
 Fase da Etapa:
-    •	Foi criado o pipeline de dados.
-    •	Testado a carga dos dados no airflow.
-    •	Explorados os dados no snowflake.
-    •	Foi criado DAG com as Task.
+
+* Foi criado o pipeline de dados.
+* Testado a carga dos dados no airflow.
+* Explorados os dados no snowflake.
+* Foi criado DAG com as Task.
 
 # Etapa 5: Criar e Configurar Camada Análitica com dbt
 Fase da Etapa:
-    •	Criado Diversos modelos como: Models, Dimension, stage, facts e test.
-    •	Rodar os Jobs.
-    •	Conectar o dbt com Snowflake.
+
+* Criado Diversos modelos como: Models, Dimension, stage, facts e test
+* Rodar os Jobs.
+* Conectar o dbt com Snowflake.
 	
 # Etapa 6: Dashboard no Looker Studio
 Fase da Etapa:
-    •	Conectar o data warehouse do snowflake com Lookerstudio.
-    •	Criar Dashboard da camada Analitica do datawarehouse.
+
+* Conectar o data warehouse do snowflake com Lookerstudio.
+* Criar Dashboard da camada Analitica do datawarehouse.
 
 ## Grafo
 
