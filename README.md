@@ -1,5 +1,5 @@
 # Engenharia de Dados
-O projeto de Engenharia de Dados proposto visa implementar uma infraestrutura robusta e escalável para processamento e análise de dados em várias fontes e formatos. Utilizando as principais ferramentas do mercado, como Airflow, Snowflake, dbt, PostgreSQL, Looker Studio e Power BI, nosso objetivo é fornecer uma solução completa para as necessidades de análise de dados da organização.
+O projeto de Engenharia de Dados proposto visa implementar uma infraestrutura robusta e escalável para processamento e análise de dados em várias fontes e formatos. Utilizando as principais ferramentas do mercado, como Airflow, Snowflake, dbt, PostgreSQL, Looker Studio e Power BI, objetivo é fornecer uma solução completa para as necessidades de análise de dados da organização.
 
 O fluxo de trabalho será gerenciado pelo Airflow, permitindo agendar e executar tarefas de forma automática e programada. Com o Airflow, podemos orquestrar fluxos de trabalho complexos, garantindo a execução de tarefas na ordem correta e lidando com possíveis falhas de forma eficiente.
 
